@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KUIT6_Android_API"
+rootProject.name = "My Application"
 include(":app")
